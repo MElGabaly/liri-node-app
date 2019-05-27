@@ -1,0 +1,24 @@
+
+********************************** MOVIE THIS **********************************
+Title: The Lion King
+Release Year: 1994
+IMDB Rating: 8.5
+Rotten Tomatoes Rating: 93%
+Country movie produced in: USA
+Language: English, Swahili, Xhosa, Zulu
+Plot: A Lion cub crown prince is tricked by a treacherous uncle into thinking he caused his father's death and flees into exile in despair, only to learn in adulthood his identity and his responsibilities.
+Actors: Rowan Atkinson, Matthew Broderick, Niketa Calame-Harris, Jim Cummings
+********************************************************************************
+
+****************************** SPOTIFY THIS SONG *******************************
+Artist: Eagles
+Song title: Hotel California - 2013 Remaster
+Album name: Hotel California (2013 Remaster)
+URL Preview: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=6e0969a95e144ab0b61a66345841b606
+********************************************************************************
+
+********************************** CONCERT THIS ********************************
+Venue Name: Firefly Music Festival
+Event Date: 06/22/2019
+Venue Address: W Loockerman St. Dover, DE, 19904
+********************************************************************************
