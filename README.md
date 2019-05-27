@@ -7,7 +7,7 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 In addition to logging the data to your terminal/bash window, output the data to a .txt file called `log.txt`.
 
 the following Videos shows how the app works with all its functions:
-![Google Drive link to highres Video](https://drive.google.com/open?id=1656EEb49CsE0HO3nbM8daut2B-wgbTZw)
+[Google Drive link to highres Video](https://drive.google.com/open?id=1656EEb49CsE0HO3nbM8daut2B-wgbTZw)
 ![liri Video 480p](lisi-Video-480p.mov)
 
 ### Packages that are being used in this app
